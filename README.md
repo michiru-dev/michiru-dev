@@ -1,8 +1,8 @@
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michiru-dev&count_private=true&show_icons=true&theme=rose&hide=issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michiru-dev&count_private=true&show_icons=true&theme=rose&hide=issues)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michiru-dev&layout=compact&theme=rose)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michiru-dev&layout=compact&theme=rose)
+
 
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=michiru-dev&theme=ocean-gradient)](https://git.io/streak-stats)
