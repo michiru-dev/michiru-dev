@@ -2,8 +2,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michiru-dev&count_private=true&show_icons=true&theme=rose&hide=issues,stars&line_height=30)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michiru-dev&layout=compact&theme=rose)
 
+<!--
 [![](https://visitcount.itsvg.in/api?id=michiru-dev&label=Profile%20Views&color=5&icon=6&pretty=false)](https://visitcount.itsvg.in)
-
+-->
 
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=michiru-dev&theme=ocean-gradient)](https://git.io/streak-stats)
