@@ -2,6 +2,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michiru-dev&count_private=true&show_icons=true&theme=rose&hide=issues,stars&line_height=30)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michiru-dev&layout=compact&theme=rose)
 
+# Skills
+<img width="605" alt="スクリーンショット 2023-09-21 午前9 10 56" src="https://github.com/michiru-dev/michiru-dev/assets/105535906/1524b67e-4250-477c-99c1-a9d6f829704f">
+
+
 <!--
 [![](https://visitcount.itsvg.in/api?id=michiru-dev&label=Profile%20Views&color=5&icon=6&pretty=false)](https://visitcount.itsvg.in)
 -->
