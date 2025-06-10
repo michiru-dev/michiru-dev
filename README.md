@@ -6,7 +6,6 @@
 <img width="640" alt="スクリーンショット 2023-09-22 午前8 56 43" src="https://github.com/michiru-dev/michiru-dev/assets/105535906/1ce4f2fc-4306-4d1e-bdca-db124a5b2899">
 
 
-
 <!--
 [![](https://visitcount.itsvg.in/api?id=michiru-dev&label=Profile%20Views&color=5&icon=6&pretty=false)](https://visitcount.itsvg.in)
 -->
